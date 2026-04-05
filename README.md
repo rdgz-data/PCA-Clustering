@@ -1,6 +1,6 @@
 # 🐧 PCA & Clustering Analysis – Palmer Penguins
 
-## 📌 Overview
+##  Overview
 
 This project applies **Principal Component Analysis (PCA)** and **unsupervised clustering techniques** to analyze morphological differences between penguin species.
 
@@ -8,7 +8,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Reduce dimensionality using PCA
 - Identify natural groupings using clustering
@@ -16,7 +16,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 ---
 
-## ⚙️ Methods
+##  Methods
 
 - Data Cleaning & EDA
 - Correlation Analysis
@@ -27,7 +27,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 - 2 principal components explain **88% of variance**
 - Optimal clusters: **k = 3**
@@ -36,7 +36,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 ---
 
-## 🔍 Insights
+##  Insights
 
 - PC1 represents **body size**
 - PC2 captures **bill morphology**
@@ -45,7 +45,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
@@ -55,7 +55,7 @@ This project applies **Principal Component Analysis (PCA)** and **unsupervised c
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 - `data/` → Dataset files  
 - `notebook/` → Jupyter Notebook with full analysis  
@@ -71,6 +71,4 @@ Full analysis available in the included PDF report.
 
 ---
 
-## 🚀 Author
 
-Your Name
